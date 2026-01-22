@@ -1,0 +1,374 @@
+{
+    "weapons": [
+      {
+        "id": "nameless-sword",
+        "name": "Nameless Sword (无名剑)",
+        "rarity_score": 5,
+        "combat_style": "Melee DPS / Hybrid Mobility",
+        "pros": [
+          "Exceptional mobility with built-in dodge mechanics and qi shield generation",
+          "Versatile combat range allowing both melee and mid-range sword qi projectiles",
+          "Superior posture break potential against elite enemies and bosses",
+          "Low skill floor with high mastery ceiling, suitable for all player levels"
+        ],
+        "cons": [
+          "Stamina management is critical; poor endurance control leads to vulnerability windows",
+          "Requires precise parry timing to maximize counter-attack damage potential",
+          "Limited AoE damage compared to spear or fan weapons"
+        ],
+        "how_to_obtain": "The Nameless Sword is automatically unlocked as a starting martial art when you begin your journey in Where Winds Meet. Unlike most weapons that require skill theft or quest completion, this weapon is granted immediately upon character creation. To equip it, open your inventory menu, navigate to the Martial Arts section, and select it as your primary weapon. It pairs exceptionally well with the Nameless Spear for a balanced DPS build, or with the Strategic Sword for advanced bleed-focused compositions. No prerequisites, Dragon Keys, or faction reputation are required, making it a core part of every early-game loadout.",
+        "comparison_target": "Strategic Sword (战略剑)",
+        "tier_rating": "S-Tier",
+        "faq": [
+          {
+            "q": "What makes Nameless Sword S-Tier despite being a starter weapon?",
+            "a": "Its S-Tier ranking comes from unmatched versatility and scalability. The sword's qi shield provides temporary protection against qi damage, its movement skills allow weaving in and out of danger, and its posture break potential remains relevant even in late-game boss fights. Because its power scales strongly with player skill, it stays viable from level 1 to endgame raids without feeling outdated."
+          },
+          {
+            "q": "Should I replace Nameless Sword once I unlock Strategic Sword?",
+            "a": "You generally should not hard-replace it. Strategic Sword offers higher sustained damage through bleed stacking, but Nameless Sword provides superior survivability and mobility. Many meta builds run both: use Strategic Sword during safe DPS windows and swap to Nameless Sword during high-pressure phases that require dodging, blocking and posture breaking. This weapon-swapping playstyle is extremely strong in both PvE and PvP."
+          }
+        ]
+      },
+      {
+        "id": "nameless-spear",
+        "name": "Nameless Spear (无名长枪)",
+        "rarity_score": 5,
+        "combat_style": "Melee DPS / Crowd Control",
+        "pros": [
+          "Superior reach and zoning control with extended hitboxes",
+          "Built-in projectile deflection mechanic enhances survivability against ranged enemies",
+          "Powerful spinning charge attack that blocks damage while dealing AoE damage",
+          "Unrivaled state enhances charge attacks and reduces endurance cost significantly"
+        ],
+        "cons": [
+          "Slower attack speed than sword weapons, demanding better timing and spacing",
+          "Limited gap-closing tools; relies on dashes or weapon swaps for mobility",
+          "Spin-based charge attack has a long windup that can be punished by agile foes"
+        ],
+        "how_to_obtain": "The Nameless Spear is unlocked automatically alongside the Nameless Sword during the opening chapter of Where Winds Meet. After completing the core combat tutorial, you will gain access to your first set of martial arts, including this spear. Open the Martial Arts interface and assign Nameless Spear to one of your weapon slots. From there you can start experimenting with its light combo chain, charge spin attack, and projectile deflection capabilities. No questline, sect allegiance, or Dragon Key is required, making it an accessible but extremely powerful starting weapon that continues to perform well into mid-game content.",
+        "comparison_target": "Heavenquaker Spear (震天长枪)",
+        "tier_rating": "S-Tier",
+        "faq": [
+          {
+            "q": "How does the projectile deflection mechanic work on Nameless Spear?",
+            "a": "When you enter the Unrivaled state by charging your spear spin, a defensive field forms around your character. While this spin persists, most incoming arrows, bolts and basic qi projectiles are automatically deflected. Because the spin also deals continuous damage, you can advance into enemy firing lines while staying relatively safe, making the weapon extremely strong against archer camps and ranged-heavy encounters."
+          },
+          {
+            "q": "Is Nameless Spear better than Heavenquaker Spear for general PvE?",
+            "a": "For general open-world PvE and early dungeons, Nameless Spear tends to be stronger due to its responsiveness, simpler combos and defensive spin. Heavenquaker Spear surpasses it when you focus on large group pulls and elite mob packs, thanks to stronger hard crowd control and AoE burst. Many players use Nameless Spear early on and transition into a Heavenquaker + sword combination once they unlock more advanced content."
+          }
+        ]
+      },
+      {
+        "id": "strategic-sword",
+        "name": "Strategic Sword (战略剑)",
+        "rarity_score": 4,
+        "combat_style": "Melee DPS / Bleed Specialist",
+        "pros": [
+          "Top-tier sustained DPS through powerful bleed stacking mechanics",
+          "Access to multiple morph skills that adapt to different enemy types",
+          "Excellent stagger and knockdown options for breaking elite enemies",
+          "Crosswind Blade Spirit amplification significantly boosts end-of-chain damage"
+        ],
+        "cons": [
+          "Complex skill rotation with high mechanical demand to maintain bleed uptime",
+          "Lower innate mobility than Nameless Sword, forcing careful positioning",
+          "Loses significant damage if bleed stacks drop mid-fight",
+          "Reliant on specific Inner Ways and Mystic Skills to reach meta DPS thresholds"
+        ],
+        "how_to_obtain": "To unlock Strategic Sword, head to the Lone Cloud Sanctum in the Encircling Lake sub-region of Qinghe. The sanctum sits atop a cliffside plateau, protected by patrolling disciples and archers. Approach from the rear cliff to avoid direct aggro or clear the outer guards if you prefer a direct assault. Inside the sanctum, you will find the Strategic Sword master performing practice drills. You must first have unlocked the Touch of Death skill through earlier content. Wait for the master to separate from the disciples, then trigger Touch of Death and initiate the skill theft mini-game. Time the inputs precisely to avoid detection; failure results in a difficult multi-enemy fight. Once you successfully complete the theft, Strategic Sword is added permanently to your Martial Arts list, and you can level and slot it like any other weapon.",
+        "comparison_target": "Nameless Sword (无名剑)",
+        "tier_rating": "A-Tier",
+        "faq": [
+          {
+            "q": "Is Strategic Sword worth learning if I already main Nameless Sword?",
+            "a": "Yes. Nameless Sword covers mobility, defense and posture pressure, whereas Strategic Sword specializes in long-duration damage over time through bleed. Running them together lets you rotate: apply bleed stacks with Strategic Sword, then swap to Nameless Sword for survival and posture break while bleeds tick. This synergy is one of the strongest melee combinations in the current meta for both solo and group PvE."
+          },
+          {
+            "q": "What stats and Inner Ways should I prioritize for Strategic Sword?",
+            "a": "Prioritize gear and Inner Ways that enhance bleed damage, crit rate and sustained stamina. Battle Anthem and Morale Chant are particularly strong, as they increase attack frequency and survivability during long DPS windows. Pair them with Mystic Skills that improve heavy attacks and bleed duration, allowing you to maintain high stacks and capitalize on Crosswind Blade Spirit’s burst finishers."
+          }
+        ]
+      },
+      {
+        "id": "heavenquaker-spear",
+        "name": "Heavenquaker Spear (震天长枪)",
+        "rarity_score": 4,
+        "combat_style": "Melee DPS / AoE Crowd Control",
+        "pros": [
+          "Devastating AoE skills that knock down and scatter large enemy groups",
+          "Damage scales with number of enemies hit, rewarding aggressive pulls",
+          "Excellent posture break and stagger, ideal for interrupting elites and bosses",
+          "Synergizes well with bleed and poison builds for massive AoE damage over time"
+        ],
+        "cons": [
+          "Consumes a Dragon Key to access its sanctum for the first unlock",
+          "Long, committal animations on heavy attacks can be punished in tight arenas",
+          "Weaker single-target DPS compared to high-end swords or dual blades",
+          "Requires good positioning sense to consistently hit large groups"
+        ],
+        "how_to_obtain": "To obtain Heavenquaker Spear, travel to the Heavenquaker Martial Sanctum located northeast of Qinghe, near the encircling cliffs above the main road. At the canyon entrance, interact with the ancient stone pillar and spend one Dragon Key to open the sealed gateway. Proceed through the tunnel network while dealing with spear-wielding disciples and collapsing rock traps. In the final chamber, you will encounter the Heavenquaker master performing wide-swing drills. You must use Touch of Death to initiate a skill theft sequence while avoiding the sweeping spear arcs. Time your inputs carefully during the mini-game, as failure triggers a high-damage boss-style duel. After a successful theft, the Heavenquaker Spear martial art is permanently added to your list, and you can start speccing into AoE and crowd control-focused builds.",
+        "comparison_target": "Nameless Spear (无名长枪)",
+        "tier_rating": "A-Tier",
+        "faq": [
+          {
+            "q": "Is Heavenquaker Spear good for solo leveling?",
+            "a": "Heavenquaker Spear is excellent for solo leveling in open zones because it clears large mob packs very quickly. You can pull multiple enemies, group them up and unleash earth-shattering skills that both knock them down and deal high AoE damage. However, you must learn enemy patterns, since the long animations can leave you exposed if you whiff or overcommit into elite enemies."
+          },
+          {
+            "q": "What role does Heavenquaker Spear play in group content?",
+            "a": "In group dungeons and raids, Heavenquaker Spear functions as a control-oriented off-tank or secondary DPS. Its knockdowns and staggers create safe damage windows for your main carries, while its large hitboxes ensure that debuffs and bleed effects apply to entire pulls. When paired with a dedicated healer and a main tank, Heavenquaker Spear turns chaotic trash packs into manageable encounters."
+          }
+        ]
+      },
+      {
+        "id": "panacea-fan",
+        "name": "Panacea Fan (万能扇)",
+        "rarity_score": 5,
+        "combat_style": "Ranged Support / Pure Healer",
+        "pros": [
+          "Best-in-slot pure healing weapon with exceptional sustain and burst heals",
+          "Cloudburst Healing and Light Dust After Morning Rain offer powerful emergency tools",
+          "Multiple skills can revive or stabilize allies at critical HP thresholds",
+          "Dew-based resource system allows long-duration healing if managed properly"
+        ],
+        "cons": [
+          "No offensive pressure; completely reliant on teammates to deal damage",
+          "High dependence on Dew management and positioning awareness",
+          "Channeling animations can be punished if not protected by frontliners",
+          "Suboptimal for solo progression compared to hybrid support options"
+        ],
+        "how_to_obtain": "To unlock Panacea Fan, open the Develop Martial Arts menu and mark the Panacea Fan as your tracked objective. This reveals a location east of Verdant Wilds in the outskirts of Kaifeng, where a secluded healing sanctum is hidden behind a waterfall. Fight or sneak past the outer bandits and interact with a stone stele to reveal a hidden passage into the grotto. Inside, a healer master continuously tends to wounded disciples. You must have Touch of Death unlocked to attempt skill theft. Wait until the master walks away from the patients and stands alone near the spring, then initiate the theft mini-game. Each prompt must be timed accurately, as failing reveals your presence and starts a difficult fight with both the master and nearby disciples. Once you succeed, Panacea Fan is permanently added to your Martial Arts and can be equipped for high-end support builds.",
+        "comparison_target": "Soulshade Umbrella (墨影伞)",
+        "tier_rating": "S-Tier",
+        "faq": [
+          {
+            "q": "Is Panacea Fan mandatory for high-end raid healing?",
+            "a": "While not absolutely mandatory, Panacea Fan is widely considered the gold standard for dedicated healers. Its combination of strong burst heals, sustain-over-time patterns and emergency revival tools makes surviving high-damage mechanics far easier. Other support weapons can work, but coordinated groups aiming for smooth clears and speedruns strongly prefer at least one Panacea Fan user in the party."
+          },
+          {
+            "q": "What Inner Ways and Mystic Skills work best with Panacea Fan?",
+            "a": "Focus on Inner Ways that enhance Dew generation, healing power and cooldown reduction, such as Royal Remedy and Mending Loom. For Mystic Skills, prioritize upgrades that shorten Cloudburst Healing’s cooldown, increase Light Dust After Morning Rain’s revival threshold and improve your movement while casting. This setup lets you reposition safely while maintaining near-constant healing output."
+          }
+        ]
+      },
+      {
+        "id": "soulshade-umbrella",
+        "name": "Soulshade Umbrella (墨影伞)",
+        "rarity_score": 3,
+        "combat_style": "Ranged Support / Hybrid Healer",
+        "pros": [
+          "Floating Grace provides a teamwide damage buff alongside healing-over-time",
+          "Echoes of a Thousand Plants deploys healing drones with excellent uptime",
+          "Pale Petal’s exhaust debuff reduces enemy damage and increases party safety",
+          "Strong Dew generation allows frequent cycling of key support skills"
+        ],
+        "cons": [
+          "Raw healing output is lower than Panacea Fan in high-pressure encounters",
+          "Umbrella animation locks are punishable without proper positioning",
+          "Limited burst healing; better suited to sustained encounters than spike damage",
+          "Requires investment into specific support gear sets to compete at top level"
+        ],
+        "how_to_obtain": "Make your way to the Soulshade Post Station in eastern Kaifeng, close to the Mistveil Forest crossroads. Talk to the station master to begin a stealth-focused side quest that reveals an underground chamber beneath the station. Using Veil of Stillness and careful timing, navigate through narrow corridors patrolled by heavily armed guards. Light and sound play a role here: sprinting or attacking recklessly will alert entire patrols. Your goal is to reach the central hall where the Soulshade Umbrella master meditates beside a lantern-lit altar. Once isolated, use Touch of Death to trigger the skill theft sequence. Inputs are slightly faster than average, reflecting the master’s agility. Complete the sequence to unlock the Soulshade Umbrella martial art. If you fail, you will be forced into a multi-target fight and must clear the hall before trying again on a later visit.",
+        "comparison_target": "Panacea Fan (万能扇)",
+        "tier_rating": "B-Tier",
+        "faq": [
+          {
+            "q": "Is Soulshade Umbrella better than Panacea Fan for small-group content?",
+            "a": "For 2–3 player parties and casual dungeon runs, Soulshade Umbrella often feels better because it buffs ally damage while still providing solid healing-over-time. Panacea Fan excels in high-end raids and heavy-damage encounters, but in everyday content, the extra DPS from Floating Grace can shorten fights and reduce overall risk."
+          },
+          {
+            "q": "Can Soulshade Umbrella function as a solo support-DPS hybrid?",
+            "a": "Yes. While it will never match true DPS weapons, Soulshade Umbrella’s debuffs and modest chip damage allow you to play a surprisingly resilient solo build. By rotating heals, exhaust debuffs and basic umbrella strikes, you can outlast tougher enemies while slowly whittling them down, especially if you invest in gear that boosts both survivability and skill damage."
+          }
+        ]
+      },
+      {
+        "id": "inkwell-fan",
+        "name": "Inkwell Fan (墨池扇)",
+        "rarity_score": 2,
+        "combat_style": "Ranged DPS / Airborne Specialist",
+        "pros": [
+          "Windrider passive significantly increases damage against airborne targets",
+          "Excellent air juggling potential when paired with Vernal Umbrella combos",
+          "Enhanced trajectories on projectiles create safe poke from mid to long range",
+          "Allows kiting-based gameplay that minimizes exposure to melee threats"
+        ],
+        "cons": [
+          "Low base damage when enemies are not airborne or controlled",
+          "Heavily reliant on precise timing to maintain juggle loops",
+          "Limited defensive tools; easily punished if enemies close the gap",
+          "Weak when fighting large bosses that cannot be launched into the air"
+        ],
+        "how_to_obtain": "Travel to the Silver Needle Martial Sanctum in northern Qinghe, close to the border of the Mistveil region. The entrance lies within a dense bamboo grove marked by tall stone needles. At the gate, a disciple demands a Dragon Key to unlock the inner sanctum. After using the key, descend into a series of corridors packed with needle traps and patrolling ranged disciples. Carefully disable or avoid the traps and move toward the central training arena. There, the Inkwell Fan master performs aerial drills, frequently jumping and launching fans. Wait until the master’s back is turned or he lands from a jump, then activate Touch of Death to start the theft mini-game. Because the target moves quickly, the prompt windows are tight and may require several attempts. Once you complete the sequence, the Inkwell Fan martial art becomes permanently available in your Martial Arts menu.",
+        "comparison_target": "Vernal Umbrella (春伞)",
+        "tier_rating": "C-Tier",
+        "faq": [
+          {
+            "q": "Is Inkwell Fan viable for endgame bosses?",
+            "a": "Inkwell Fan is niche for endgame bosses. Its damage spikes when enemies can be launched or kept suspended, but many large bosses resist airborne control. For those encounters, the fan functions more as a safe poke tool rather than a true damage carry. It performs best in mob-heavy content and against medium-sized elites that can reliably be juggled."
+          },
+          {
+            "q": "What is the best way to build around Inkwell Fan?",
+            "a": "Pair Inkwell Fan with Vernal Umbrella or a strong melee weapon. Use the fan to initiate fights, launch enemies and keep them in the air, then swap to Vernal Umbrella or a melee weapon to capitalize on extended hitstun. Focus on stats that boost skill damage, crit and energy regeneration, allowing you to cycle launchers and follow-ups without running dry."
+          }
+        ]
+      },
+      {
+        "id": "vernal-umbrella",
+        "name": "Vernal Umbrella (春伞)",
+        "rarity_score": 4,
+        "combat_style": "Ranged DPS / Sustained Zoning",
+        "pros": [
+          "Strong sustained ranged damage with auto-targeting umbrella projectiles",
+          "Excellent synergy with Inkwell Fan for air juggle and ranged combos",
+          "Provides consistent chip damage while allowing safe kiting and repositioning",
+          "Scales well with crit and skill damage, making it a strong late-game DPS pick"
+        ],
+        "cons": [
+          "Limited burst compared to melee assassins or dual blade weapons",
+          "Struggles in very tight arenas where kiting space is restricted",
+          "Heavily reliant on proper positioning to avoid being flanked",
+          "Lacks strong panic buttons if enemies suddenly close the distance"
+        ],
+        "how_to_obtain": "To obtain Vernal Umbrella, first progress the side questline associated with oddities and curios in Qinghe. Visit the General’s Shrine on a hill overlooking the region and speak to the caretaker NPC, who mentions a missing ceremonial umbrella. Collect several specific oddities from surrounding villages and bandit camps, then return to the shrine. This unlocks a follow-up quest that sends you to an abandoned pavilion where a former guardian of the shrine practices umbrella techniques. After a brief dialogue and a small combat trial demonstrating your skill, you gain access to a Skill Theft opportunity. Successfully completing the Touch of Death mini-game on the guardian unlocks Vernal Umbrella as a martial art. Alternatively, players who find the umbrella during the Skill Theft quest chain in Kaifeng can obtain it slightly later through a different branch of the story.",
+        "comparison_target": "Inkwell Fan (墨池扇)",
+        "tier_rating": "A-Tier",
+        "faq": [
+          {
+            "q": "Is Vernal Umbrella a good main weapon for ranged DPS?",
+            "a": "Yes. Vernal Umbrella offers stable, sustained damage from a safe distance with very forgiving targeting. While it cannot match the explosive burst of some melee options, it shines in content where survival and consistent output matter more than short spikes. It is especially strong in prolonged boss fights and open-world farming where you can freely kite enemies."
+          },
+          {
+            "q": "How does Vernal Umbrella compare to Inkwell Fan in a ranged build?",
+            "a": "Vernal Umbrella is the primary damage dealer, while Inkwell Fan acts as a niche support tool for air-juggling and pull setups. Inkwell Fan alone lacks throughput, but when used to lift and control enemies, it lets Vernal Umbrella safely maintain high uptime. Most players treat Vernal Umbrella as the main weapon and Inkwell Fan as a situational secondary for specialized encounters."
+          }
+        ]
+      },
+      {
+        "id": "infernal-twinblades",
+        "name": "Infernal Twinblades (狱火双刃)",
+        "rarity_score": 5,
+        "combat_style": "Melee DPS / Bleed & Poison Assassin",
+        "pros": [
+          "Extremely high burst and sustained DPS through bleed and poison stacking",
+          "Fast attack strings with strong gap-closing and evasive movement",
+          "Addled Mind and Calamity’s Greed provide lethal engage and execute tools",
+          "Synergizes well with Mortal Rope-Dart for hyper-aggressive melee play"
+        ],
+        "cons": [
+          "Very fragile; low margin for error against heavy hitters",
+          "Rotation is unforgiving and requires perfect spacing and timing",
+          "Struggles against enemies that frequently phase, teleport or go airborne",
+          "High stamina consumption if players spam dodges and skill cancels"
+        ],
+        "how_to_obtain": "To unlock Infernal Twinblades, make your way to the Nine Mortal Ways Martial Hall in Kaifeng. You do not need to join the sect permanently, but progressing parts of its initiation questline is recommended to gain access to the inner hall. Once inside, follow the corridor with red lanterns to reach a circular arena where an elite dual-blade master trains initiates. You must have obtained Touch of Death from earlier content. Wait until the master finishes a combo and briefly recovers, then activate Touch of Death to start the skill theft mini-game. The sequence is fast and punishing, mirroring the weapon’s aggressive nature. Failing the theft converts the master into a boss encounter with empowered dual-blade skills. Defeating him still allows you to attempt theft again after a reset. A successful theft permanently unlocks Infernal Twinblades, enabling high-risk, high-reward assassin builds.",
+        "comparison_target": "Mortal Rope-Dart (凡尘绳镖)",
+        "tier_rating": "S-Tier",
+        "faq": [
+          {
+            "q": "Are Infernal Twinblades beginner-friendly?",
+            "a": "No. Infernal Twinblades reward advanced mechanical mastery and punish mistakes severely. The weapon thrives on perfect dodges, animation cancels, and careful resource management. New players may find it too unforgiving and are usually better off starting with Nameless Sword or Strategic Sword before transitioning into Twinblades once they are more comfortable with boss patterns."
+          },
+          {
+            "q": "What build archetype works best with Infernal Twinblades?",
+            "a": "The most effective archetype is a bleed- and poison-focused assassin build. Stack gear that boosts status application, crit rate and crit damage, then pair the weapon with Inner Ways that enhance movement speed and survivability. Mortal Rope-Dart or Nameless Sword make excellent secondary weapons to cover ranged pulls or provide safer options during dangerous boss phases."
+          }
+        ]
+      },
+      {
+        "id": "mortal-rope-dart",
+        "name": "Mortal Rope-Dart (凡尘绳镖)",
+        "rarity_score": 4,
+        "combat_style": "Hybrid Melee-Ranged DPS / Executioner",
+        "pros": [
+          "Flexible engagement ranges with both mid-range pulls and close-range follow-ups",
+          "Excellent single-target DPS when comboed into melee weapons like Twinblades",
+          "Grapple-style mechanics allow repositioning enemies into favorable terrain",
+          "Strong finisher-style skills that execute low-HP targets efficiently"
+        ],
+        "cons": [
+          "Requires precise aim and timing to consistently land rope throws",
+          "Underperforms in cramped spaces where movement options are limited",
+          "Less effective against very large targets that resist pulls or knockbacks",
+          "Rotation can feel clunky without good ping or controller familiarity"
+        ],
+        "how_to_obtain": "Begin by equipping a basic Rope-Dart slot from your Martial Arts interface, even if you have no advanced style learned. This will trigger a guidance prompt pointing you toward the Nine Mortal Ways dojo in Kaifeng. Travel to the marked location and speak with the Rope-Dart instructor, who offers a tutorial quest. Complete a series of training tasks involving hitting distant targets, pulling enemies off ledges and comboing rope hits into melee strikes. After these drills, you gain the opportunity to perform Skill Theft on the master during a staged spar. Use Touch of Death when prompted and complete the theft mini-game to learn Mortal Rope-Dart. The entire questline is combat focused rather than stealth oriented, making it appealing for aggressive players who enjoy high-mobility gameplay.",
+        "comparison_target": "Infernal Twinblades (狱火双刃)",
+        "tier_rating": "A-Tier",
+        "faq": [
+          {
+            "q": "Is Mortal Rope-Dart viable as a primary weapon?",
+            "a": "It can be used as a primary weapon, but it truly shines as a partner to a strong melee option. Its rope pulls and gap closers are amazing for setting up melee combos, and its finishers are excellent for executing weakened enemies. Players looking for top-tier DPS should generally pair it with Infernal Twinblades or a high-damage sword, using Rope-Dart as an opener and control tool."
+          },
+          {
+            "q": "How does Mortal Rope-Dart perform in PvP?",
+            "a": "In PvP, Mortal Rope-Dart can be extremely disruptive when mastered. Well-timed throws can drag opponents out of position, interrupt casts and punish reckless movement. However, missing key skills often leaves you exposed. It is a high-skill PvP option that rewards prediction, spacing and an understanding of enemy escape tools."
+          }
+        ]
+      },
+      {
+        "id": "thundercry-blade",
+        "name": "Thundercry Blade (雷鸣刃)",
+        "rarity_score": 4,
+        "combat_style": "Melee DPS / Burst & Control Hybrid",
+        "pros": [
+          "High burst damage through lightning-imbued slashes and combo finishers",
+          "Applies shock-style debuffs that increase subsequent damage taken",
+          "Good mix of single-target nukes and small-radius AoE around the user",
+          "Pairs naturally with support weapons that amplify elemental damage"
+        ],
+        "cons": [
+          "Burst windows are gated by cooldowns and resource requirements",
+          "Short range compared to spear or rope-dart options",
+          "Requires careful timing to avoid overcommitting into enemy counters",
+          "Heavily reliant on gear that boosts elemental and skill damage"
+        ],
+        "how_to_obtain": "To unlock Thundercry Blade, progress the mid-game storyline until you gain access to a storm-battered mountain path on the outskirts of Qinghe and Kaifeng. There you will find a ruined temple dedicated to lightning spirits. Clear out the bandits occupying the approach, then complete a short environmental puzzle involving activating lightning rods in a specific order during a thunderstorm. Once solved, a secret chamber opens beneath the temple where a reclusive swordsman practices Thundercry techniques. Speak with him to trigger a duel-style encounter. During the duel, survive his initial burst and wait for him to pause to recover; at that moment, trigger Touch of Death to attempt Skill Theft. Successfully completing the theft grants you Thundercry Blade, while failure forces you to either retry the duel or return after improving your gear.",
+        "comparison_target": "Nameless Sword (无名剑)",
+        "tier_rating": "A-Tier",
+        "faq": [
+          {
+            "q": "How does Thundercry Blade compare to Nameless Sword for burst DPS?",
+            "a": "Thundercry Blade offers stronger elemental burst in short windows, especially when you line up its high-damage skills with enemy vulnerability phases. Nameless Sword, by contrast, delivers more consistent pressure with better defense and mobility. If you prefer explosive, cooldown-driven gameplay, Thundercry Blade will feel better. If you want a stable all-rounder, Nameless Sword remains superior."
+          },
+          {
+            "q": "What types of builds benefit most from Thundercry Blade?",
+            "a": "Elemental and crit-focused builds benefit the most. Stack gear with lightning damage bonuses, skill damage and critical stats, then run Inner Ways that increase burst windows and energy regeneration. Pairing Thundercry Blade with a support like Soulshade Umbrella or Panacea Fan in group content further amplifies its ability to delete priority targets during coordinated damage phases."
+          }
+        ]
+      },
+      {
+        "id": "stormbreaker-spear",
+        "name": "Stormbreaker Spear (破风长枪)",
+        "rarity_score": 5,
+        "combat_style": "Tank / Control-Oriented Melee",
+        "pros": [
+          "Excellent taunt and threat generation tools for dedicated tanking roles",
+          "Multiple skills provide damage reduction, guard strength and crowd control",
+          "Wide arcs and lunges allow reliable control of large enemy groups",
+          "Scales extremely well with defensive stats, making it ideal for progression content"
+        ],
+        "cons": [
+          "Lower personal DPS than pure damage-oriented weapons",
+          "Rotation is slower and more methodical, which some players find less exciting",
+          "Reliant on team coordination to fully leverage its tanking potential",
+          "Requires substantial investment into defensive gear and Inner Ways"
+        ],
+        "how_to_obtain": "Stormbreaker Spear is unlocked through a late-game quest chain focused on defending key outposts in Kaifeng from large-scale invasions. After completing several defense events and proving your worth as a frontline fighter, you will be directed to an ancient war camp where a legendary veteran trains a new generation of spear-wielders. Participate in his multi-stage trials, which include holding aggro on elite waves, protecting NPCs and surviving powerful boss assaults without letting your allies die. At the end of the trials, the veteran offers to teach you Stormbreaker Spear. Initiate a final Skill Theft attempt with Touch of Death during a scripted sparring phase; the mini-game is moderately paced but long, reflecting the disciplined nature of the style. Once completed, Stormbreaker Spear is permanently added to your Martial Arts list and becomes one of the premier tanking options available.",
+        "comparison_target": "Heavenquaker Spear (震天长枪)",
+        "tier_rating": "S-Tier",
+        "faq": [
+          {
+            "q": "Is Stormbreaker Spear the best weapon for tanking in group content?",
+            "a": "For most group and raid scenarios, Stormbreaker Spear is considered the premier tank weapon. Its toolkit includes reliable taunts, damage reduction buffs and crowd control, allowing you to anchor enemy attention while your allies focus on DPS. Heavenquaker Spear can off-tank or provide strong crowd control, but Stormbreaker is purpose-built for frontlining and excels in that role."
+          },
+          {
+            "q": "Can Stormbreaker Spear be used for solo play?",
+            "a": "Yes, but expect slower kills. Stormbreaker Spear is designed to be extremely safe, with high survivability and control but modest damage. In solo play, it suits players who value consistency and dislike dying more than they value clear speed. Pair it with an offensive secondary weapon like Nameless Sword or Infernal Twinblades to speed up farming while retaining strong defensive tools."
+          }
+        ]
+      }
+    ]
+  }
